@@ -1,0 +1,25 @@
+TIME      CPU#0           CPU#1           CPU#2           CPU#3           
+0         (idle)          (idle)          (idle)          I-Chrome        
+1         (idle)          I-Word          (idle)          I-Chrome        
+2         (idle)          I-Word          I-Terminal      I-Chrome        
+3         C-TreeGen       I-Word          I-Terminal      I-Chrome        
+4         C-TreeGen       I-Word          I-Terminal      I-Chrome        
+5         C-TreeGen       I-Word          I-Terminal      I-Chrome        
+6         C-TreeGen       I-Word          I-Terminal      I-Chrome        
+7         C-TreeGen       C-g++           I-Terminal      I-Chrome        
+8         C-TreeGen       C-g++           I-Terminal      I-Chrome        
+9         C-TreeGen       C-Mongo         I-Terminal      I-Chrome        
+10        C-TreeGen       C-Mongo         C-SqlLite       C-GraphLib      
+11        C-TreeGen       C-Mongo         C-SqlLite       C-GraphLib      
+12        C-TreeGen       C-Mongo         C-SqlLite       C-GraphLib      
+13        C-TreeGen       C-Mongo         C-SqlLite       C-GraphLib      
+14        C-TreeGen       C-Mongo         C-SqlLite       C-GraphLib      
+15        C-TreeGen       C-Mongo         C-SqlLite       C-GraphLib      
+16        C-TreeGen       C-Mongo         C-SqlLite       C-GraphLib      
+17        C-TreeGen       C-Mongo         C-SqlLite                       
+18        C-TreeGen       C-Mongo         C-SqlLite       (idle)          
+19        (idle)          C-Mongo         C-SqlLite       (idle)          
+20        (idle)          C-Mongo         C-SqlLite       (idle)          
+21        (idle)          (idle)          C-SqlLite       (idle)          
+22        (idle)          (idle)          C-SqlLite       (idle)          
+23        (idle)          (idle)          (idle)          (idle)          
